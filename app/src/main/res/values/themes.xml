@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RecipeCollector" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange_40</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/orange_80</item>
+        <item name="colorOnPrimaryContainer">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_grey_40</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/orange_grey_80</item>
+        <item name="colorOnSecondaryContainer">@color/black</item>
+        <!-- Tertiary brand color. -->
+        <item name="colorTertiary">@color/red_40</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorTertiaryContainer">@color/red_80</item>
+        <item name="colorOnTertiaryContainer">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
